@@ -5,7 +5,7 @@
 
 - 🔭 Academica em Análise e Desenvolvimento de Sistemas - IFPI
 - 🌱 Começando em front-and e ‍ui design
-- 📫 Iniciação Cientifica em Processamneto de Linguagem Natural
+- 📫 Iniciação Cientifica em Processamento de Linguagem Natural
 - 😄 Ela/Dela
 
  <div>
