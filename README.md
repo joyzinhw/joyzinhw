@@ -2,7 +2,7 @@
 
 ### Sou Joyce Moura, tenho 19 anos.
 
-
+- 🤖 Tecnica em Informatica - IFPI
 - 🔭 Academica em Análise e Desenvolvimento de Sistemas - IFPI
 - 🌱 Começando em front-and e ‍ui design
 - 📫 Iniciação Cientifica em Processamento de Linguagem Natural
@@ -19,6 +19,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-c" height="30" width="40" src="<svg xmlns="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
 </div>
   
   ##
