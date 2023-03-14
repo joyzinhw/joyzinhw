@@ -2,11 +2,11 @@
 
 ### Sou Joyce Moura, tenho 19 anos.
 
-- 🤖 Tecnica em Informatica - IFPI
-- 🔭 Academica em Análise e Desenvolvimento de Sistemas - IFPI
-- 🌱 Começando em front-and e ‍ui design
-- 📫 Iniciação Cientifica em Processamento de Linguagem Natural
-- 😄 Ela/Dela
+- 🤖 Técnica em Informatica - IFPI
+- 💻 Academica em Análise e Desenvolvimento de Sistemas - IFPI
+- ✈️ Começando em front-and e ‍ui design
+- 📘 Iniciação Cientifica em Processamento de Linguagem Natural
+- 📫 Ela/Dela
 
  <div>
   <a href="https://github.com/joyzinhw">
