@@ -1,6 +1,6 @@
 ### Allons-y
 
-### Sou Joyce Moura, tenho 19 anos.
+### Joyce Moura
 
 - 🤖 Técnica em Informatica - IFPI
 - 💻 Academica em Análise e Desenvolvimento de Sistemas - IFPI
