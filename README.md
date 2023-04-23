@@ -6,7 +6,7 @@
 
 - 🤖 Técnica em Informatica - IFPI
 - 💻 Academica em Análise e Desenvolvimento de Sistemas - IFPI
-- ✈️ Começando em front-and e ‍ui design
+- ✈️ Começando em front-and e ‍UI design
 - 📘 Iniciação Cientifica em Processamento de Linguagem Natural
 - 📫 Ela/Dela
 
