@@ -10,8 +10,6 @@
 - 📘 Iniciação Cientifica em Processamento de Linguagem Natural
 - 📫 Ela/Dela
 
-
-
  <div>
   <a href="https://github.com/joyzinhw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyzinhw&show_icons=true&theme=transparent"/>
