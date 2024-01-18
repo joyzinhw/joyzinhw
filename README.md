@@ -1,7 +1,7 @@
 # Allons-y
 - 🤖 Técnica em Informatica - IFPI
 - 💻 Academica em Análise e Desenvolvimento de Sistemas - IFPI
-- ✈️ Começando em Front-End e ‍UX/UI Design
+- ✈️ Começando em Desenvolvimento‍ Web & UX/UI Design
 - 📘 Iniciação Cientifica em Processamento de Linguagem Natural
 - 📫 Ela/Dela
 
