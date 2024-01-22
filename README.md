@@ -1,23 +1,15 @@
 # Allons-y
-- 🤖 Técnica em Informatica - IFPI
-- 💻 Academica em Análise e Desenvolvimento de Sistemas - IFPI
-- ✈️ Começando em Desenvolvimento‍ Web & UX/UI Design
-- 📘 Iniciação Cientifica em Processamento de Linguagem Natural
-- 📫 Ela/Dela
-
+ 
  ##
  <br>
 <div align="center">  
   <a href="https://github.com/joyzinhw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyzinhw&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyzinhw&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
  <br>
  
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joyzinhw&theme=transparent&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+ ### Conecte-se comigo
 
 <div align="center"> 
 <a href="https://instagram.com/joyzinhw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=transparent&logo=instagram&logoColor=white"</a>
@@ -26,9 +18,9 @@
  </div>
 
 ##
- ### Linguagens
+ ### Competências
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,7 +36,7 @@
  ##
   ### Ferramentas
  
- <div style="display: inline_block"><br> 
+ <div style="display: inline_block" align="center" ><br> 
  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg">
  <img align="center" alt="canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
