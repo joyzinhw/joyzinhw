@@ -1,8 +1,6 @@
 # Allons-y
 
- Acadêmica em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Piauí, explorando a interação entre teoria e prática para a criação de soluções inovadoras. Com envolvimento ativo em pesquisas 
- acadêmicas, com foco em Processamento de Linguagem Natural, investigando como a linguagem humana pode ser interpretada e processada por sistemas computacionais para diversas aplicações, além de possuir habilidades específicas em desenvolvimento 
- web como front-end.
+Academic in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Piauí, exploring the interaction between theory and practice to create innovative solutions. Actively involved in academic research, focusing on Natural Language Processing, investigating how human language can be interpreted and processed by computational systems for various applications, and possessing specific skills in web development as a front-end developer.
 
  ##
  <br>
