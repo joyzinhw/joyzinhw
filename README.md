@@ -1,6 +1,7 @@
 # Allons-y
 
-Academic in Systems Analysis and Development at the Federal Institute of Piauí, exploring the interaction between theory and practice to create innovative solutions. Actively involved in academic research, with a focus on Natural Language Processing, investigating how human language can be interpreted and processed by computational systems for various applications, in addition to possessing specific skills in front-end web development.
+Master’s student in Electrical Engineering at the Federal University of Piauí (UFPI). Holds a Bachelor's degree in Systems Analysis and Development and a Technical Diploma in Information Technology from the Federal Institute of Piauí (IFPI). Has an academic and professional background focused on integrating theoretical foundations with practical applications in the development of technological solutions. Actively engaged in scientific research, with an emphasis on Natural Language Processing and Computer Vision.
+
 
  ##
  <br>
